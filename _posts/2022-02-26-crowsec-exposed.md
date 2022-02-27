@@ -6,7 +6,6 @@ date:   2022-02-26 07:42:03 PM -03
 category: Crowsec 
 ---
 
-
 # Enumeration
 
 {% highlight text  %}

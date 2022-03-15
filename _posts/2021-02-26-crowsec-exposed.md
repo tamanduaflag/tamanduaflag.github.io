@@ -3,7 +3,7 @@ layout: post
 author: kohaku
 title:  "Exposed"
 date:   2022-02-26 09:42:45 PM -03
-category: Crowsec 
+category: Crowsec
 ---
 
 # Enumeration

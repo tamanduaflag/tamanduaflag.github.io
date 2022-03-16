@@ -1,6 +1,6 @@
 ---
 layout: post
-author: kohaku
+author: maxin
 title:  "Memories"
 date:   2022-01-01 10:28:30 PM -03
 category: HackMyVM

@@ -4,6 +4,7 @@ author: maxin
 title:  "Eyes"
 date:   2022-01-01 10:39:32 PM -03
 category: HackMyVM
+tags: Writeup
 ---
 
 [HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Eyes)

@@ -4,6 +4,7 @@ author: maxin
 title:  "Memories"
 date:   2022-01-01 10:28:30 PM -03
 category: HackMyVM
+tags: Writeup
 ---
 
 [HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Memories)

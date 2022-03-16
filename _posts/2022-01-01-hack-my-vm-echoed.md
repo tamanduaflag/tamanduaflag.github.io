@@ -4,6 +4,7 @@ author: maxin
 title:  "Echoed"
 date:   2022-01-01 09:48:24 PM -03
 category: HackMyVM
+tags: Writeup
 ---
 
 [HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Echoed)

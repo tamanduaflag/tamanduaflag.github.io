@@ -4,6 +4,7 @@ author: maxin
 title:  "Doc"
 date:   2021-12-31 09:45:48 AM -03
 category: HackMyVM
+tags: Writeup
 ---
 
 [HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Doc)

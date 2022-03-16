@@ -4,6 +4,7 @@ author: maxin
 title:  "Path"
 date:   2022-03-15 02:21:10 PM -03
 category: CrowSec
+tags: Writeup
 ---
 
 # Enumeration

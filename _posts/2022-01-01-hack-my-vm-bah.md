@@ -4,6 +4,7 @@ author: canarinho
 title:  "Bah"
 date:   2022-01-01 09:32:26 PM -03
 category: HackMyVM
+tags: Writeup
 ---
 
 [HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Bah)

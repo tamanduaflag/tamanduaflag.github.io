@@ -4,6 +4,7 @@ author: maxin
 title:  "Forbidden"
 date:   2022-01-01 09:37:31 PM -03
 category: HackMyVM
+tags: Writeup
 ---
 
 [HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Forbidden)
